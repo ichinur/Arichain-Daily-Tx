@@ -7,9 +7,11 @@
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/auto-tx-daily-airchain.git
+    git clone https://github.com/ichinur/Arichain-Daily-Tx aridaily
     ```
-
+    ```bash
+    cd aridaily
+    ```
 2. **Install Dependencies**
 
     ```bash
